@@ -1,0 +1,13 @@
+# Dataset
+dataset/raw/
+dataset/processed/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
